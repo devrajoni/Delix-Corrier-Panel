@@ -1,0 +1,14 @@
+:root {
+    --sg-light: #eeeeee;
+    --sg-dark: #111120;
+    --sg-primary: #206CFF;
+    --sg-primary-rgb: 32, 108, 225;
+    --sg-secondary: #434343;
+    --sg-link-hover-color: #000000;
+    --sg-btn-hover-color: #206CFF;
+    --sg-btn-hover-border-color: #206CFF;
+    --sg-table-border-color: #d7dde9;
+    --sg-body-bg-color: #ffffff;
+    --sg-table-header-bg-color: rgba(32, 108, 225, 0.06);
+    --sg-sidebar-menu-active: #206CFF;
+  }

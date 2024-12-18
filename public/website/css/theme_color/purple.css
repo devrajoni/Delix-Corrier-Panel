@@ -1,0 +1,16 @@
+  :root {
+    --color-black: #000000;
+    --color-black-rgb: 0, 0, 0;
+    --color-white: #fff;
+    --color-white-rgb: 255, 255, 255;
+    --color-body: #fff;
+    --color-primary: #793CFB;
+    --color-primary-rgb: 121, 60, 251;
+    --color-bg: #00224D ;
+    --color-secondary: #ff204e0d;
+    --color-heading: #212529;
+    --color-heading-rgb: 33, 37, 41;
+    --color-content: #495057;
+    --color-border: #DDDDDD;
+    --color-rating: #FFC375;
+  }
